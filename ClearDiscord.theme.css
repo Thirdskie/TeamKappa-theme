@@ -1,4 +1,4 @@
-//META{"name":"Clear Discord","description":"A nice and clean theme with blue highlights","author":"Dddsasul","version":"2.0.2"}*//
+//META{"name":"Clear Discord","description":"A nice and clean theme with blue highlights","author":"Dddsasul","version":"2.0.3"}*//
 
 
 /* Make The Image Darker */
@@ -24,7 +24,7 @@
 /* Background Image URL Must be HTTPS */
 body {
     /*background: url(https://i.imgur.com/uTVZzkC.jpg) !important;*/
-    background: url(https://i.imgur.com/zucNxIt.jpg) !important;
+    background: url(https://giant.gfycat.com/DecisiveSorrowfulGuineapig.gif) !important;
     background-size: cover !important;
     height: 100vh !important;
     background-repeat: no-repeat !important;
@@ -191,6 +191,10 @@ body {
     background: none !important;
     border: none !important;
 }
+.inline
+{
+    background:  rgba(1, 97, 165) !important;
+}
 
 /* DM Friends Menu */
 .btn-friends > a {
@@ -314,6 +318,63 @@ body {
 .title-2mmhgH
 {
     color: rgb(41, 137, 216) !important;
+}
+/* End NSFW */
+
+/* Is Typing */
+.typing-3eiiL_
+{
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.4), rgba(91, 187, 255, 0.4), rgba(0, 0, 0, 0.4)) !important;
+}
+
+/* Users Loading Side-pannel */
+.channel-members-loading, .channel-members-loading > .member, .channel-members-loading > .heading
+{
+    background: none !important;
+}
+
+/* Settings Cards */
+.cardPrimary-ZVL9Jr, .cardPrimaryEditable-2IQ7-V
+{
+    background:  rgba(91, 187, 255, 0.2) !important;
+    border: 1px solid rgba(91, 187, 255, 0.4) !important;
+}
+
+/* Settings Sliders */
+.barFill-18ABna
+{
+    background-color: rgb(41, 137, 216) !important;
+}
+.bar-2cFRGz
+{
+    background-color: rgb(1, 57, 136) !important;
+}
+
+/* Settings Switch */
+.valueChecked-3Bzkbm
+{
+    background-color: rgb(41, 137, 216) !important;
+}
+
+/* Settings Selected Tab */
+.selected-eNoxEK
+{
+    background: rgb(41, 137, 216) !important;
+}
+.notSelected-PgwTMa:hover
+{
+    background: linear-gradient(90deg, rgba(91, 187, 255, 0.6), rgba(41, 137, 216, 0.4)) !important;
+}
+.notSelected-PgwTMa
+{
+    color: white !important;
+}
+
+/* Settings Account Button */
+.accountBtnInner-3zsU2z
+{
+    background-color:  rgb(41, 137, 216) !important;
+    border: 2px solid rgba(91, 187, 255) !important;
 }
 
 /* User Profile Modal */
